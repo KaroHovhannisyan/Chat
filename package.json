@@ -1,0 +1,12 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat using NodeJs",
+  "dependencies": {
+    "socket.io": "0.9",
+    "express": "3.5.0",
+    "jade": "latest",
+    "socket.io-client": "0.9"
+  },
+  "author": "Karo Hovhannisyan"
+}
